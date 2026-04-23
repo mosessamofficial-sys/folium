@@ -36,7 +36,7 @@ from folium.features import Control
 m = folium.Map(location=[45, 0], zoom_start=4)
 
 control = Control(
-    "fullscreen",  
+    "fullscreen",
     position="topright",
     # Any plugin options become JS options.
     title="View Fullscreen",
