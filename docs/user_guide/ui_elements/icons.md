@@ -71,4 +71,3 @@ folium.Marker(
 m
 
 ```
-
